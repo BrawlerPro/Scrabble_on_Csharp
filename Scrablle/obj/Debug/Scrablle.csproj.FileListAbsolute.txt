@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\Scrablle\bin\Debug\Scrablle.exe.config
+C:\Users\Admin\source\repos\Scrablle\bin\Debug\Scrablle.exe
+C:\Users\Admin\source\repos\Scrablle\bin\Debug\Scrablle.pdb
+C:\Users\Admin\source\repos\Scrablle\obj\Debug\Scrablle.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Scrablle\obj\Debug\Scrablle.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Scrablle\obj\Debug\Scrablle.Form1.resources
+C:\Users\Admin\source\repos\Scrablle\obj\Debug\Scrablle.GameLobby.resources
+C:\Users\Admin\source\repos\Scrablle\obj\Debug\Scrablle.Properties.Resources.resources
+C:\Users\Admin\source\repos\Scrablle\obj\Debug\Scrablle.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Scrablle\obj\Debug\Scrablle.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Scrablle\obj\Debug\Scrablle.exe
+C:\Users\Admin\source\repos\Scrablle\obj\Debug\Scrablle.pdb
